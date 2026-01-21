@@ -5,7 +5,7 @@
         <div class="flex justify-between gap-x-1">
             <a class="block font-semibold text-xl text-black focus:outline-hidden focus:opacity-80"
                href="/" aria-label="Karang Taruna Besinar">
-                <x-logo/>
+                <x-logo class="w-42"/>
             </a>
 
             <!-- Collapse Button -->
@@ -94,7 +94,7 @@
                                                     </a>
 
                                                     <a class="p-2 md:px-3 flex items-center text-sm text-white md:text-gray-800 rounded-lg hover:bg-indigo-700 md:hover:bg-gray-100 focus:outline-hidden focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300"
-                                                       href="#">
+                                                       href="visi-misi">
                                                         Visi-Misi
                                                     </a>
 
@@ -107,13 +107,8 @@
                                         </div>
 
                                         <a class="p-2 md:px-3 flex items-center text-sm text-white md:text-gray-800 rounded-lg hover:bg-indigo-700 md:hover:bg-gray-100 focus:outline-hidden focus:bg-gray-100"
-                                           href="#">
+                                           href="struktur-organisasi">
                                             Struktur Organisasi
-                                        </a>
-
-                                        <a class="p-2 md:px-3 flex items-center text-sm text-white md:text-gray-800 rounded-lg hover:bg-indigo-700 md:hover:bg-gray-100 focus:outline-hidden focus:bg-gray-100"
-                                           href="#">
-                                            Pengurus
                                         </a>
                                     </div>
                                 </div>

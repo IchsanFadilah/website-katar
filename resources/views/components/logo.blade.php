@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="160" zoomAndPan="magnify"
-     viewBox="0 0 224.87999 74.999997" preserveAspectRatio="xMidYMid meet" version="1.0">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     viewBox="0 0 224.87999 74.999997" preserveAspectRatio="xMidYMid meet" version="1.0" {{ $attributes }}>
     <defs>
         <filter x="0%" y="0%" width="100%" height="100%" id="6b17d5a581">
             <feColorMatrix values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0" color-interpolation-filters="sRGB"/>

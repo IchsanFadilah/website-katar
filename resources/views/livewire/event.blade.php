@@ -15,7 +15,7 @@
                 <div class="relative pt-[50%] sm:pt-[70%] rounded-xl overflow-hidden">
                     <img
                         class="size-full absolute top-0 start-0 object-cover group-hover:scale-105 group-focus:scale-105 transition-transform duration-500 ease-in-out rounded-xl"
-                        src="https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                        src="https://images.unsplash.com/photo-1713000017637-74e5091563d9?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                         alt="Blog Image">
                     <span
                         class="absolute top-0 end-0 rounded-se-xl rounded-es-xl text-xs font-medium bg-gray-800 text-white py-1.5 px-3">
@@ -25,7 +25,7 @@
 
                 <div class="mt-7 p-2">
                     <h3 class="text-xl font-semibold text-gray-800 group-hover:text-gray-600">
-                        Santunan Anak Yatim
+                        Festival Ramadan
                     </h3>
                     <p class="mt-3 text-gray-800">
                         Kegiatan Santunan Anak Yatim yang diselenggarakan setiap bulan ramadan.

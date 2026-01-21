@@ -1,8 +1,15 @@
 <?php
 
+use App\Livewire\About;
+use App\Livewire\Contact;
+use App\Livewire\Home;
+use App\Livewire\Struktur;
+use App\Livewire\VisiMisi;
 use Illuminate\Support\Facades\Route;
 
-Route::get('/', \App\Livewire\Home::class)->name('home');
-Route::get('/tentang-kami', \App\Livewire\About::class)->name('about');
+Route::get('/', Home::class)->name('home');
+Route::get('/tentang-kami', About::class)->name('about');
 Route::get('/kegiatan', \App\Livewire\Event::class)->name('event');
-Route::get('/kontak', \App\Livewire\Contact::class)->name('contact');
+Route::get('/kontak', Contact::class)->name('contact');
+Route::get('/visi-misi', VisiMisi::class)->name('visi-misi');
+Route::get('/struktur-organisasi', Struktur::class)->name('struktur');
